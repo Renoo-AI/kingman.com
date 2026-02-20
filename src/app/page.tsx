@@ -11,8 +11,8 @@ export default function Home() {
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-3xl">
             <h2 className="font-serif text-5xl lg:text-7xl font-bold leading-tight mb-6">
-              L'élégance sans compromis. <br/>
-              <span className="text-primary/60 italic">Louez l'exceptionnel.</span>
+              L&apos;élégance sans compromis. <br/>
+              <span className="text-primary/60 italic">Louez l&apos;exceptionnel.</span>
             </h2>
             <p className="text-xl text-muted-foreground mb-10 max-w-xl">
               Découvrez notre collection de costumes de mariage haut de gamme.

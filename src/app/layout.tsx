@@ -7,7 +7,7 @@ const playfair = Playfair_Display({ subsets: ["latin"], variable: "--font-serif"
 
 export const metadata: Metadata = {
   title: "Groomwear Luxe | Location de Costumes de Mariage",
-  description: "Plateforme haut de gamme de location de costumes pour mariés et garçons d'honneur.",
+  description: "Plateforme haut de gamme de location de costumes pour mariés et garçons d&apos;honneur.",
 };
 
 export default function RootLayout({

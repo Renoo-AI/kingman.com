@@ -45,7 +45,7 @@ export default function OperationsPage() {
       <div className="mb-8 flex flex-col justify-between gap-4 md:flex-row md:items-center">
         <div>
           <h1 className="font-serif text-3xl font-bold">Opérations Logistiques</h1>
-          <p className="text-muted-foreground">Gestion de l'inventaire et suivi du cycle de vie des costumes.</p>
+          <p className="text-muted-foreground">Gestion de l&apos;inventaire et suivi du cycle de vie des costumes.</p>
         </div>
         <div className="relative">
           <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
@@ -115,7 +115,7 @@ export default function OperationsPage() {
 
       <div className="mt-8 grid grid-cols-1 gap-6 md:grid-cols-3">
         <div className="rounded-xl border bg-background p-6">
-          <h4 className="text-xs font-bold uppercase tracking-widest text-muted-foreground mb-4">À traiter aujourd'hui</h4>
+          <h4 className="text-xs font-bold uppercase tracking-widest text-muted-foreground mb-4">À traiter aujourd&apos;hui</h4>
           <div className="flex items-center justify-between">
             <span className="text-3xl font-bold">8</span>
             <Waves className="h-8 w-8 text-cyan-500 opacity-20" />
